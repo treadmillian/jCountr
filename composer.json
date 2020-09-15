@@ -1,0 +1,8 @@
+{
+    "description": "JCountr",
+    "license": "GPL 2.0",
+    "type": "ree-js-module",
+    "name": "treadmillian/jCountr",
+    "type": "library",
+    "require": { }
+}
